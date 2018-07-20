@@ -12,13 +12,13 @@ $ npm run
 * Vist localhost:3000/ 
 
 # Route Table 
-Route Table | Url
---- | --- | ---
-*coustomer1* | `'/customer1/:lat/:long'` 
-*coustomer2* | `'/customer2/:lat/:long'` 
-*coustomer3* | `'/customer3/:lat/:long'` 
-*testing*| `'/1'`
-*testing*| `'/2'`
+Route Table | Url |
+--- | --- | --- |
+*customer1* | `'/customer1/:lat/:long'`| 
+*customer2* | `'/customer2/:lat/:long'` |
+*customer3* | `'/customer3/:lat/:long'` |
+*testing*| `'/1'`|
+*testing*| `'/2'`|
 
 * Where :lat and :long are manual entered
 
