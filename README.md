@@ -33,9 +33,14 @@ Route Table | Url |
   6. Nodemon
   7. supertest 
 
-# unit testing
+# Unit testing
 1. express.js 
 2. middle ware 
+
+```
+npm test
+```
+
 
 # summary 
 A basic RESTful API in need of more unit tests and mongo db Schema to represent the customers allow express.js to render those expressions during the API call! 
